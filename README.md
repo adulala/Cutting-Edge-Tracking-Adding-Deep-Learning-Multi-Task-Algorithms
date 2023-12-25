@@ -1,5 +1,5 @@
 
-![Alt Text](url-of-your-gif)
+![Alt Text](https://github.com/adulala/Cutting-Edge-Tracking-Adding-Deep-Learning-Multi-Task-Algorithms/blob/main/out_deepsort_nvidia.gif)
 
 In the realm of advanced computer vision and object tracking, this project exemplifies the integration of state-of-the-art methodologies to achieve precise and reliable tracking of objects across video frames. The implementation leverages a synergistic blend of deep learning models and algorithmic approaches, tailored to address the complexities inherent in real-time object tracking. Below is an overview of the key components and methodologies employed in this sophisticated object tracking system:
 
