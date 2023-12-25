@@ -1,3 +1,6 @@
+
+![Alt Text](url-of-your-gif)
+
 In the realm of advanced computer vision and object tracking, this project exemplifies the integration of state-of-the-art methodologies to achieve precise and reliable tracking of objects across video frames. The implementation leverages a synergistic blend of deep learning models and algorithmic approaches, tailored to address the complexities inherent in real-time object tracking. Below is an overview of the key components and methodologies employed in this sophisticated object tracking system:
 
 1. **Bounding Box Detection with YOLO v5**: The foundation of the tracking process begins with the deployment of YOLO v5, renowned for its high accuracy in object detection. This model identifies objects within each video frame and delineates them with bounding boxes, setting the stage for subsequent tracking.
